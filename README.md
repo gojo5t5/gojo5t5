@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @gojo5t5 (gojo is an anime character I'm quite fond of)
-- 👀 I’m interested in machine learning and ai!
-- 🌱 I’m currently learning back end development.
-- 📫 How to reach me hematteo@outlook.com
+- 👀 I’m interested in deep learning and NLP
+- 🌱 I’m currently researching the robustness aspect of LLMs
 - 🦾 You can find my personal website [here](https://gojo5t5.github.io)
 
 <!---
